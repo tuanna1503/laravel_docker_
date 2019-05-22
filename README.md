@@ -3,4 +3,4 @@ Create a laravel app container with nginx, php72-fpm, memcached, redis and mysql
 
 Start app:   docker-compose up -d
 
-Go to check:  http://localhost
+Go to check:  http://localhost:8088
